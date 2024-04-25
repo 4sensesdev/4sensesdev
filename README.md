@@ -4,8 +4,9 @@
 
 
 
-<img src="https://photojournal.jpl.nasa.gov/jpeg/PIA14442.jpg" alt="When a star die bring things like Supernovae, and creates new elements and compounds in the universe. As telling us that an end sometimes is just a step needed to start again" style="display: block; margin-left: auto; margin-right: auto;" width="50%" align="right">
-
+<a href="#">
+  <img src="https://photojournal.jpl.nasa.gov/jpeg/PIA14442.jpg" alt="when a star die bring things like Supernovae, and creates new elements and compounds in the universe. As telling us that an end sometimes is just a step needed to start again" width="100%">
+</a>
 
 # 4sensesdev
 <div style="text-align: justify">
@@ -26,6 +27,9 @@ Since 2021, from one day to the next I lost at least 70% of my vision, now I hav
 
 For those wondering, why someone with a visual impairment is trying to learn to code when could be doing something simpler? Well, the answer is easy, if I don't do what I can while I still can, in the future it may be too late, this reminds me of a phrase I heard a while ago that says: **_"The day we give up will not be the end of our journey, it will only be the beginning of a worse future."_**
 
+<br>
+<br>
+
 In this account I will be publishing projects where I’ll be applying some things I learned in my career along with everything I have learned and what I will learn here in this community.
 
 Of course, I won't use too much technical language, as the idea is to explain some interesting things for me, but in a simpler way. I believe knowledge should always be shared in a clear and easy-to-understand manner, and I'd like to try to explain everything as simply as I can.
@@ -45,24 +49,10 @@ Of course, I won't use too much technical language, as the idea is to explain so
 
 ### Are you ready to see a taste of  "uncommon vision" challenger work?
 
-### Open your mind and observe!
+### Open your mind and Here we go!
 </div>
 <br>
 
-![Ai generated views of protein structures](https://www.cnet.com/a/img/resize/1247950183145d3c99380b1086f9d19b6ae3c40b/hub/2019/04/17/d9aa6509-aef1-44c0-9d3c-64e407e5a44a/harvard-protein-models.jpg?auto=webp&fit=crop&height=675&width=1200)
-
-
-<!--
-**4sensesdev/4sensesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="#">
+  <img src="https://www.cnet.com/a/img/resize/1247950183145d3c99380b1086f9d19b6ae3c40b/hub/2019/04/17/d9aa6509-aef1-44c0-9d3c-64e407e5a44a/harvard-protein-models.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Ai generated views of protein structures" width="100%">
+</a>
